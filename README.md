@@ -1,4 +1,4 @@
-# 🔐 OwLock – Secure File Manager
+# 🦉 OwLock – Secure File Manager
 
 OwLock is a **modern file encryption manager** built with **Python (Tkinter + Cryptography)**.  
 It allows you to securely encrypt and decrypt files with **AES-256-GCM**, manage storage in a hidden folder, and protect access with a stylish **login system**.
@@ -33,25 +33,25 @@ OwLock uses **AES-256 (Advanced Encryption Standard)** in **GCM (Galois/Counter 
    - Restores the original file when authentication passes.
 
 ### Security Benefits
-- 🔒 **Confidentiality**: Your files remain unreadable without the secret key.  
-- 🛡 **Integrity**: Even a one-byte modification causes decryption to fail.  
-- ⚡ **Performance**: GCM is optimized for modern CPUs, making it both fast and secure.  
+-  **Confidentiality**: Your files remain unreadable without the secret key.  
+-  **Integrity**: Even a one-byte modification causes decryption to fail.  
+-  **Performance**: GCM is optimized for modern CPUs, making it both fast and secure.  
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔑 **AES-256-GCM Encryption**
+-  **AES-256-GCM Encryption**
   - Industry-standard encryption with nonce + tag for integrity.
   - Prevents double encryption of `.enc` files.
-- 📂 **Secure File Storage**
+-  **Secure File Storage**
   - Files stored inside a hidden folder (`.my_hidden_folder`).
   - Remove originals after encryption.
-- 🔒 **Login System**
+-  **Login System**
   - User authentication before accessing OwLock.
-- 🗂 **File Management**
+-  **File Management**
   - Add, move, open, and view encrypted files directly from the UI.
-- 🔐 **Key Management**
+-  **Key Management**
   - Generate secret key (`secret.key`) once, reuse across sessions.
   - Option to **save internally** or **export** to a custom location.
   - Automatically deletes `secret.key` after decryption for extra security.
