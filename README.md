@@ -43,12 +43,15 @@ OwLock uses **AES-256 (Advanced Encryption Standard)** in **GCM (Galois/Counter 
 
 <img width="1127" height="997" alt="Image" src="https://github.com/user-attachments/assets/31a5fad0-c050-4937-972c-2a1bb3680633" />
 
+---------------------
 
 <img width="619" height="566" alt="Image" src="https://github.com/user-attachments/assets/c36df997-13b9-4e18-b9e8-a3d7e3e55e17" />
 
+---------------------
 
 <img width="689" height="708" alt="Image" src="https://github.com/user-attachments/assets/d1679d7c-8a4e-43a2-8dd2-218d7b0ee218" />
 
+---------------------
 
 ##  Features
 
