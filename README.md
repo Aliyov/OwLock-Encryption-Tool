@@ -1,4 +1,4 @@
-# 🦉 OwLock – Secure File Manager
+# 🦉 OwLock – File Encryption  
 
 OwLock is a **modern file encryption manager** built with **Python (Tkinter + Cryptography)**.  
 It allows you to securely encrypt and decrypt files with **AES-256-GCM**, manage storage in a hidden folder, and protect access with a stylish **login system**.
